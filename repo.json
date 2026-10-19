@@ -1,0 +1,9 @@
+{
+    "iconUrl": "https://i.ibb.co/jkHmfscp/csrubikof-friendly.png",
+    "name": "RBK Providers Friendly",
+    "description": "Providers Movieis, series, anime, documentales, etc for RUBIKOF",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/refs/heads/main/plugins.json"
+    ]
+}
