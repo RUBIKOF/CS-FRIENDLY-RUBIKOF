@@ -1,12 +1,12 @@
 [
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cinecalidad.org/&size=32",
-    "fileHash": "sha256-9a612dbb7f4bea5a17804054b1d59edaf71b30c6e2dc14f690981428ac56bd2a",
+    "fileHash": "sha256-215e24a225d75e843fb16a58a5850afffe17afe11bbe840359a96f47f15e7009",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 57907,
+    "fileSize": 58106,
     "status": 1,
-    "language": "es",
+    "language": "mx",
     "authors": [
       "RUBIKOF"
     ],
