@@ -12,7 +12,8 @@
     ],
     "tvTypes": [
       "TvSeries",
-      "Movie"
+      "Movie",
+      "Anime"
     ],
     "version": 1,
     "internalName": "CineCalidad",
