@@ -22,10 +22,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sololatino.net/&size=32",
-    "fileHash": "sha256-98718ae7266ea7fc260165130c01467c81c35829e6065f9991819725c4e84cee",
+    "fileHash": "sha256-4fdb0bc2676b7ed9d87da7da4e2610051c8de72ca9225e012e56ad9ab90e1202",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 86104,
+    "fileSize": 86096,
     "status": 1,
     "language": "mx",
     "authors": [
