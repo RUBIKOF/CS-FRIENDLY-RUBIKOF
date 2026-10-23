@@ -43,10 +43,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
-    "fileHash": "sha256-d616751381be5ca9198bbcf349cd89a663d64af228a34664516acf15db0b15c7",
+    "fileHash": "sha256-4970f8dab59251cc493cb6be343777f1bb3eb4617471eda672b10bcd40f9131f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 113189,
+    "fileSize": 113648,
     "status": 1,
     "language": "mx",
     "authors": [
