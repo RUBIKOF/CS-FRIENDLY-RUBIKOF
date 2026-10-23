@@ -40,5 +40,26 @@
     "internalName": "SoloLatino",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SoloLatino.cs3",
     "name": "SoloLatino"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
+    "fileHash": "sha256-3355a2bbe9d3297f4708f079172f002a8b845ff6e587e4010eb7afc01dba93b2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 115009,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "LaMovie",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/LaMovie.cs3",
+    "name": "LaMovie"
   }
 ]
