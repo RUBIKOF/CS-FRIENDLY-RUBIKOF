@@ -64,10 +64,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.poseidonhd2.co/&size=32",
-    "fileHash": "sha256-b98f506e05024442ffbb99d03e8eba6d350be5bd750c9bddeb257a0cc7b9a9db",
+    "fileHash": "sha256-b11f671e63b885c090e9b21c1b53fd67f96915b9589a2eaded45f5fe6756238e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 110860,
+    "fileSize": 113968,
     "status": 1,
     "language": "mx",
     "authors": [
