@@ -61,5 +61,25 @@
     "internalName": "LaMovie",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/LaMovie.cs3",
     "name": "LaMovie"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.poseidonhd2.co/&size=32",
+    "fileHash": "sha256-4bcebc75f4ea01a94e57109267a8edcc5d3bae502a3b3835846c0084be29cad5",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 106764,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "PoseidonHD2",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PoseidonHD2.cs3",
+    "name": "PoseidonHD2"
   }
 ]
