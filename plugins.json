@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cinecalidad.org/&size=32",
-    "fileHash": "sha256-b036d52e2acd3a56d9239e2cf83185de446bc9dca5b8bf6ff7e8b2cea3a8a476",
+    "fileHash": "sha256-5d365c56c55b4203b77f85fb2651ae1e83e39f3566bd8bffe36c2562ba0ca558",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 66513,
+    "fileSize": 66398,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -22,10 +22,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sololatino.net/&size=32",
-    "fileHash": "sha256-584fddb2acc24345c29393d562671ccbf245e663d055022479656ab813e55c0d",
+    "fileHash": "sha256-7fe74c1085a47713111392d0eb53ce4bd5f5d1f68211f0ed36e20a8dcc061f24",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 111941,
+    "fileSize": 111837,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -43,10 +43,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
-    "fileHash": "sha256-fbdc269a20c0d1cc40d895a839ff5ca48eaffca27fc678ed1e4c8cc69e818574",
+    "fileHash": "sha256-df3d59e38338474557c2eb67c380217a10dc6416175c8061d4a62c0ff50e7b0d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 116693,
+    "fileSize": 116554,
     "status": 1,
     "language": "mx",
     "authors": [
