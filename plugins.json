@@ -81,5 +81,26 @@
     "internalName": "PoseidonHD2",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PoseidonHD2.cs3",
     "name": "PoseidonHD2"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://serieskao.top/&size=32",
+    "fileHash": "sha256-fd78e331984dafea7f83e1e44286922dd44c62ed4984537856eb314a5b8be344",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 113612,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "SeriesKao",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SeriesKao.cs3",
+    "name": "SeriesKao"
   }
 ]
