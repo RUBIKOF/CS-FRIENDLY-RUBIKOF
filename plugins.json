@@ -123,5 +123,26 @@
     "internalName": "PelisJuanita",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PelisJuanita.cs3",
     "name": "PelisJuanita"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasflix.in/&size=32",
+    "fileHash": "sha256-67f1876b8f939768b07e3aa5015573ae24ae6d5b9650ce50ac9181fe57ae8ad7",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 151612,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "DoramasFlix",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasFlix.cs3",
+    "name": "DoramasFlix"
   }
 ]
