@@ -126,10 +126,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasflix.in/&size=32",
-    "fileHash": "sha256-848f47acd940b3ae8027bb6bb3c78a06f5b976e519d2a49be25dd16cd07cd352",
+    "fileHash": "sha256-5ab8d64ddfe324005f5a23e68cb30f3f77f94299934b79b2a1e1a40c3d3a08cd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 174400,
+    "fileSize": 174602,
     "status": 1,
     "language": "mx",
     "authors": [
