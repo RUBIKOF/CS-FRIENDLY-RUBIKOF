@@ -43,10 +43,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
-    "fileHash": "sha256-e72be22a2c9b3bcc03054b87260774d021db9b80ad95ef178ab12092b46116b4",
+    "fileHash": "sha256-a9b0a85071bd804663b21cadb4b078fd3e84a666146cf95fad43c5da0931fd5a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 146569,
+    "fileSize": 189789,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -144,5 +144,26 @@
     "internalName": "DoramasFlix",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasFlix.cs3",
     "name": "DoramasFlix"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=32",
+    "fileHash": "sha256-ce4b1e5f493abab64d06ae599d0ef0e889f4858e6aceda85746f709a53028c8e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 182293,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "Henaojara",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/Henaojara.cs3",
+    "name": "Henaojara"
   }
 ]
