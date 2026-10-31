@@ -147,10 +147,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=32",
-    "fileHash": "sha256-61c10867be0af457a7dce5ba98ba452a2da9f759b23f7b385f6ed9ce688b2ed2",
+    "fileHash": "sha256-a291c81bb0cdb25696b6147164af1a9fc34bd077def23560b871ce301c129ab8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 187621,
+    "fileSize": 196535,
     "status": 1,
     "language": "mx",
     "authors": [
