@@ -168,10 +168,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://verani.me/&size=32",
-    "fileHash": "sha256-57fc99621c12b8ba544646259c67dc0f57ff2abc06b69f50f08fd4619fcbcd1c",
+    "fileHash": "sha256-e9410597b9cf42cf25fc0b6a2bee23a21072b91ab9e02f2a2e6c4a26fc181305",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 216878,
+    "fileSize": 223817,
     "status": 1,
     "language": "mx",
     "authors": [
