@@ -168,10 +168,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sololatino.net/&size=32",
-    "fileHash": "sha256-644a68c6be53468a0635e321154e76e2fc2bd8fb4c4adb29e5886529646c7ae8",
+    "fileHash": "sha256-35a2a7766968875b67f4f98d738209e51764a56af3c718434ee5c5c36d667d95",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 279069,
+    "fileSize": 278890,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -206,5 +206,26 @@
     "internalName": "VerAnime",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/VerAnime.cs3",
     "name": "VerAnime"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.animefenix.vip/&size=32",
+    "fileHash": "sha256-0cc72e2b006960b43a912a695f568209376a28acb4b3da1973c3d7b3da5e8014",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 254575,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "AnimeFenix",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/AnimeFenix.cs3",
+    "name": "AnimeFenix"
   }
 ]
