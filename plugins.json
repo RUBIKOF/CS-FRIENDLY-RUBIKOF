@@ -227,5 +227,24 @@
     "internalName": "AnimeFenix",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/AnimeFenix.cs3",
     "name": "AnimeFenix"
+  },
+  {
+    "iconUrl": "https://cdn-icons-png.flaticon.com/32/5362/5362522.png",
+    "fileHash": "sha256-419207184bb9009694612cba4d86043a1f97f0d2d45bbb7530d778121b155f53",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 20058,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "TvCable",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/TvCable.cs3",
+    "name": "TvCable"
   }
 ]
