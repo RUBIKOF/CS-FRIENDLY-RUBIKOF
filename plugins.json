@@ -43,10 +43,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasmoon.com/&size=32",
-    "fileHash": "sha256-0727737da960ce670aae6ec4278d1f3993fc8c1068828fbb3830c9730808b792",
+    "fileHash": "sha256-ddd483cf85745041fef0f293bc4a95cadb194af980d91c976b7e3faeafe9b250",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 248191,
+    "fileSize": 257069,
     "status": 1,
     "language": "mx",
     "authors": [
