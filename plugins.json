@@ -230,10 +230,10 @@
   },
   {
     "iconUrl": "https://cdn-icons-png.flaticon.com/32/5362/5362522.png",
-    "fileHash": "sha256-419207184bb9009694612cba4d86043a1f97f0d2d45bbb7530d778121b155f53",
+    "fileHash": "sha256-d1c9decda349be783aa3a5db718b01765b74c821252b4c61b796eb008a0c6b31",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 20058,
+    "fileSize": 20562,
     "status": 1,
     "language": "mx",
     "authors": [
