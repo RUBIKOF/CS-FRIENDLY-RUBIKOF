@@ -111,7 +111,6 @@ CloudStream utiliza los manifiestos del repositorio para consultar la informaci�
 ```text
 CS-FRIENDLY-RUBIKOF/
 ├── README.md         # Presentación y guía de instalación
-├── .github/          # Actualización automática del catálogo
 ├── repo.json         # Manifiesto del repositorio
 ├── plugins.json      # Catálogo y metadatos de extensiones
 └── *.cs3             # Archivos de las extensiones
