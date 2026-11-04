@@ -18,7 +18,7 @@
 # `rbkcloud`
 
 <!-- Sustituye solo la URL src por la imagen de tu botón PNG. -->
-<a href="cloudstreamrepo://https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/repo.json">
+<a href="https://RUBIKOF.github.io/redirectRBK/?r=cloudstreamrepo%3A%2F%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2FRUBIKOF%2FCS-FRIENDLY-RUBIKOF%2Fmain%2Frepo.json">
   <img src="https://i.ibb.co/dJDJsgVz/RBK-Friendly.png" alt="Añadir repositorio a CloudStream" width="450" />
 </a>
 
