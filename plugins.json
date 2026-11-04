@@ -1,213 +1,5 @@
 [
   {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cinecalidad.org/&size=32",
-    "fileHash": "sha256-267f95a6c476869ed846684d982d6ea5ad226223f492eec0713d8f3500620f8d",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 258726,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "CineCalidad",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/CineCalidad.cs3",
-    "name": "CineCalidad"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasflix.in/&size=32",
-    "fileHash": "sha256-b68b735d0c06e4a211df45dfd1eca9df9410c79dfeae0ce4e1aceb1bcdcd89c2",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 263217,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "DoramasFlix",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasFlix.cs3",
-    "name": "DoramasFlix"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasmoon.com/&size=32",
-    "fileHash": "sha256-023af12ef57c65e5fa271ab4219fff2989ff25f50595647b15b73a827be633e3",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 263545,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "DoramasMoon",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasMoon.cs3",
-    "name": "DoramasMoon"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=32",
-    "fileHash": "sha256-ea7ac3f234f6276c132771f80ddb20dd879a01ffce62ad8956efbc18c399181e",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 254618,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "version": 1,
-    "internalName": "Henaojara",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/Henaojara.cs3",
-    "name": "Henaojara"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
-    "fileHash": "sha256-53d2b4670bbaa7e5201a15bd33792382957a521fe22d3ba9bfb7fa7890639650",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 256862,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "LaMovie",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/LaMovie.cs3",
-    "name": "LaMovie"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pelisjuanita.com/&size=32",
-    "fileHash": "sha256-cbbc685f0cadc356814bf117d02c066552380e9467da67a0696e137c5ffc562f",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 254695,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "PelisJuanita",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PelisJuanita.cs3",
-    "name": "PelisJuanita"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.poseidonhd2.co/&size=32",
-    "fileHash": "sha256-293a9e16e2f08d6d240cb6e543531370d6d80e50a7900d8cee82e58a500e04e8",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 254021,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "PoseidonHD2",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PoseidonHD2.cs3",
-    "name": "PoseidonHD2"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://serieskao.top/&size=32",
-    "fileHash": "sha256-d509631c27b2228447eb65b95cc40d5700f8f7b7b2a3ada1be44e17a24a717e3",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 251417,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "SeriesKao",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SeriesKao.cs3",
-    "name": "SeriesKao"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sololatino.net/&size=32",
-    "fileHash": "sha256-35a2a7766968875b67f4f98d738209e51764a56af3c718434ee5c5c36d667d95",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 278890,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "SoloLatino",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SoloLatino.cs3",
-    "name": "SoloLatino"
-  },
-  {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://verani.me/&size=32",
-    "fileHash": "sha256-a31ae8dd8e21ac19c07b44f63a07fe33255bfb4621bb3697deaa3be60975c420",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 263406,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "RUBIKOF"
-    ],
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "version": 1,
-    "internalName": "VerAnime",
-    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/VerAnime.cs3",
-    "name": "VerAnime"
-  },
-  {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.animefenix.vip/&size=32",
     "fileHash": "sha256-67725ad3833e5c925fcb8f9e68aaa4cec1a4e6f6311cdc387f20f191141a8068",
     "apiVersion": 1,
@@ -229,6 +21,194 @@
     "name": "AnimeFenix"
   },
   {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cinecalidad.org/&size=32",
+    "fileHash": "sha256-268a6e11a0abf7c381eb9f0d8c56bef346b040ec2152995a3d4666fe66307398",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 261257,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "CineCalidad",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/CineCalidad.cs3",
+    "name": "CineCalidad"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasflix.in/&size=32",
+    "fileHash": "sha256-bf449d57592c387ed00debda0c8f37163a72d357f0a341af6d4321a15f0234d6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 265447,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "DoramasFlix",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasFlix.cs3",
+    "name": "DoramasFlix"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramasmoon.com/&size=32",
+    "fileHash": "sha256-706063b5874128a92715a687d338b2b37d549ebe44995df85e1270a329dd4ea6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 265525,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "DoramasMoon",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/DoramasMoon.cs3",
+    "name": "DoramasMoon"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=32",
+    "fileHash": "sha256-2e400c5aa4aa6be28c10d1234662cc773ab93d82821e7c70f1b01fa433ab079e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 257021,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "Henaojara",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/Henaojara.cs3",
+    "name": "Henaojara"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lamovie.org/&size=32",
+    "fileHash": "sha256-487bb3839ecca0c8839cc3a9c65cf5791adab28f623833c99f5dd2f83722f445",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 259488,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "LaMovie",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/LaMovie.cs3",
+    "name": "LaMovie"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pelisjuanita.com/&size=32",
+    "fileHash": "sha256-b08abbb3dc7660e48521117bb7f73c7f623b3b72245f4dfd773d975b8a84af05",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 257005,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "PelisJuanita",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PelisJuanita.cs3",
+    "name": "PelisJuanita"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.poseidonhd2.co/&size=32",
+    "fileHash": "sha256-e340f2d7fb7ca8b0168d733347d4bc890bd0bcb45ff55959e14d3b64309c6bbf",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 256478,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "PoseidonHD2",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/PoseidonHD2.cs3",
+    "name": "PoseidonHD2"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://serieskao.top/&size=32",
+    "fileHash": "sha256-77a375fc3172ac981ef242e6dcc18fe5e40f9f5b2e49eddf598324d3a69feb5d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 253841,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "SeriesKao",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SeriesKao.cs3",
+    "name": "SeriesKao"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sololatino.net/&size=32",
+    "fileHash": "sha256-669e6fd76cf40aab91c5c71d645ac45a43fb958bea3112b343e3794107be8e52",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 281617,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "SoloLatino",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/SoloLatino.cs3",
+    "name": "SoloLatino"
+  },
+  {
     "iconUrl": "https://cdn-icons-png.flaticon.com/32/5362/5362522.png",
     "fileHash": "sha256-73805576828b2b6c4e560060792866ad7b86bf29e8801d8fc4815a9389c8a5ee",
     "apiVersion": 1,
@@ -246,5 +226,25 @@
     "internalName": "TvCable",
     "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/TvCable.cs3",
     "name": "TvCable"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://verani.me/&size=32",
+    "fileHash": "sha256-f26144d2cc67fa8a445408768540a06387878de0a0f0e4e1131f80934c0b1bb8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
+    "fileSize": 265490,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "RUBIKOF"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "VerAnime",
+    "url": "https://raw.githubusercontent.com/RUBIKOF/CS-FRIENDLY-RUBIKOF/main/VerAnime.cs3",
+    "name": "VerAnime"
   }
 ]

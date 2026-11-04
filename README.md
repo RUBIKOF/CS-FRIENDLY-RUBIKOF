@@ -56,18 +56,18 @@ Los datos se generan desde [`plugins.json`](./plugins.json). La fecha correspond
 <!-- RBK_PROVIDERS_START -->
 | Extensión | Contenido declarado | Última actualización |
 |:--|:--|:--:|
-| 🎬 **CineCalidad** | Películas, series y anime | — |
-| 🍿 **LaMovie** | Películas, series y anime | — |
-| 🎞️ **PelisJuanita** | Películas, series y doramas | — |
-| 🌊 **PoseidonHD2** | Películas y series | — |
-| 🌎 **SoloLatino** | Películas, series y anime | — |
-| 📺 **SeriesKao** | Series, películas y doramas | — |
-| 💗 **DoramasFlix** | Doramas, películas y series | — |
-| 🌙 **DoramasMoon** | Doramas, películas y series | — |
-| 🌸 **AnimeFenix** | Anime, películas de anime y OVA | — |
-| ⚡ **VerAnime** | Anime y películas de anime | — |
-| 🌀 **Henaojara** | Anime, películas de anime y OVA | — |
-| 📡 **TvCable** | Televisión en vivo | — |
+| **AnimeFenix** | Anime, Películas de anime, OVA | 03/11/2026 |
+| **CineCalidad** | Series, Películas, Anime | 04/11/2026 |
+| **DoramasFlix** | Series, Películas, Doramas | 04/11/2026 |
+| **DoramasMoon** | Series, Películas, Doramas | 04/11/2026 |
+| **Henaojara** | Anime, Películas de anime, OVA | 04/11/2026 |
+| **LaMovie** | Series, Películas, Anime | 04/11/2026 |
+| **PelisJuanita** | Series, Películas, Doramas | 04/11/2026 |
+| **PoseidonHD2** | Series, Películas | 04/11/2026 |
+| **SeriesKao** | Series, Películas, Doramas | 04/11/2026 |
+| **SoloLatino** | Series, Películas, Anime | 04/11/2026 |
+| **TvCable** | TV en vivo | 03/11/2026 |
+| **VerAnime** | Anime, Películas de anime | 04/11/2026 |
 <!-- RBK_PROVIDERS_END -->
 
 > [!NOTE]
