@@ -10,7 +10,7 @@
 
 [![CloudStream](https://img.shields.io/badge/CloudStream-Extensiones-7C3AED?style=for-the-badge)](https://github.com/recloudstream/cloudstream)
 [![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-0EA5E9?style=for-the-badge)](#-cat%C3%A1logo-de-extensiones)
-[![Extensiones](https://img.shields.io/badge/Extensiones-12-22C55E?style=for-the-badge)](#-cat%C3%A1logo-de-extensiones)
+[![Extensiones](https://img.shields.io/badge/Extensiones-13-22C55E?style=for-the-badge)](#-cat%C3%A1logo-de-extensiones)
 
 
 **Instala todo el repositorio escribiendo solo:**
@@ -48,7 +48,7 @@
 ## 🧩 Catálogo de extensiones
 
 <!-- RBK_COUNT_START -->
-**12 extensiones** disponibles en el catálogo.
+**13 extensiones** disponibles en el catálogo.
 <!-- RBK_COUNT_END -->
 
 Los datos se generan desde [`plugins.json`](./plugins.json). La fecha corresponde a la publicación del `.cs3` cuando se modifica, o al último commit registrado del archivo en este repositorio.
@@ -60,6 +60,7 @@ Los datos se generan desde [`plugins.json`](./plugins.json). La fecha correspond
 | **CineCalidad** | Series, Películas, Anime | 03/11/2026 |
 | **DoramasFlix** | Series, Películas, Doramas | 03/11/2026 |
 | **DoramasMoon** | Series, Películas, Doramas | 03/11/2026 |
+| **Gnula** | Películas | 04/11/2026 |
 | **Henaojara** | Anime, Películas de anime, OVA | 03/11/2026 |
 | **LaMovie** | Series, Películas, Anime | 03/11/2026 |
 | **PelisJuanita** | Series, Películas, Doramas | 03/11/2026 |
