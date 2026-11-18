@@ -63,7 +63,7 @@ Los datos se generan desde [`plugins.json`](./plugins.json). La fecha correspond
 | **Gnula** | Películas | 04/11/2026 |
 | **Henaojara** | Anime, Películas de anime, OVA | 04/11/2026 |
 | **LaMovie** | Series, Películas, Anime | 04/11/2026 |
-| **PelisJuanita** | Series, Películas, Doramas | 04/11/2026 |
+| **PelisJuanita** | Series, Películas, Doramas | 17/11/2026 |
 | **PoseidonHD2** | Series, Películas | 04/11/2026 |
 | **SeriesKao** | Series, Películas, Doramas | 04/11/2026 |
 | **SoloLatino** | Series, Películas, Anime | 04/11/2026 |
