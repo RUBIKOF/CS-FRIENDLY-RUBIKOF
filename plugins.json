@@ -127,10 +127,10 @@
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pelisjuanita.com/&size=32",
-    "fileHash": "sha256-e8273713a0f4498afd93532dace67c57c6765c6adeae749a2a44cce5046bd6ab",
+    "fileHash": "sha256-8be14a6d28d5a3161ebd316183b8d3ddcd65adc871a9259dbea74dcafd47c150",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RUBIKOF/CS-FRIENDLY-RUBIKOF",
-    "fileSize": 282080,
+    "fileSize": 282208,
     "status": 1,
     "language": "mx",
     "authors": [
