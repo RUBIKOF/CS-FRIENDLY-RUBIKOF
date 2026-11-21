@@ -66,7 +66,7 @@ Los datos se generan desde [`plugins.json`](./plugins.json). La fecha correspond
 | **PelisJuanita** | Series, Películas, Doramas | 20/11/2026 |
 | **PoseidonHD2** | Series, Películas | 20/11/2026 |
 | **SeriesKao** | Series, Películas, Doramas | 20/11/2026 |
-| **SoloLatino** | Series, Películas, Anime | 20/11/2026 |
+| **SoloLatino** | Series, Películas, Anime | 21/11/2026 |
 | **TvCable** | TV en vivo | 20/11/2026 |
 | **VerAnime** | Anime, Películas de anime | 20/11/2026 |
 <!-- RBK_PROVIDERS_END -->
